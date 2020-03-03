@@ -1,0 +1,16 @@
+<!--miniprogram/pages/home/home.wxml
+默认页面，如果用户已经在某个小区注册过了，直接显示用户信息二维码
+-->
+
+<view class="container">
+  <image>image</image>
+
+
+
+
+
+
+</view>
+
+
+
